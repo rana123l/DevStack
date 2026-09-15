@@ -2,8 +2,8 @@
 
 A modern, curated tech stack builder web application designed for developers to discover technologies and compose their dream developer stack.
 
-🔗 **Live Site:** [Live Demo](https://your-live-site-link.vercel.app)  
-📁 **GitHub Repository:** [GitHub Repository](https://github.com/your-username/devstack)
+🔗 **Live Site:** [Live Demo]https://dev-stack-by-rana.netlify.app  
+📁 **GitHub Repository:** [GitHub Repository]https://github.com/rana123l/DevStack
 
 ---
 
