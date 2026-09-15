@@ -1,7 +1,9 @@
-import Navbar from "./Components/Navbar";
-import Hero from "./Components/Hero";
 import Footer from "./Components/Footer";
+import Hero from "./Components/Hero";
+import Navbar from "./Components/Navbar";
 import Technologies from "./Components/Technologies";
+import { ToastContainer } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 function App() {
   return (
@@ -10,6 +12,7 @@ function App() {
       <Hero />
       <Technologies />
       <Footer />
+      <ToastContainer position="top-right" autoClose={2000} />
     </>
   );
 }
